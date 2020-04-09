@@ -1,4 +1,4 @@
-# Frontend Mentor - Social media dashboard with theme switcher
+# Frontend Mentor - Social media dashboard with theme switcher https://omololacrea8.github.io/Social-media-dashboard/
 
 ![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
 
